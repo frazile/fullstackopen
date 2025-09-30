@@ -18,3 +18,5 @@
 - Anecdotes
 
 ### PART 2
+
+- courseinfo
