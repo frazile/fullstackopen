@@ -13,6 +13,7 @@
 
 ### PART 1
 
+- Courseinfo
 - Unicafe
 - Anecdotes
 
